@@ -26,7 +26,7 @@ python add_hat.py test.jpg
 
 ```
 
-> 参数filename 是自己的正脸照片（格式jpg），建议放在同一目录下。
+> 参数test.jpg 是自己的正脸照片（格式jpg），建议放在同一目录下。
 
 ## 4. 运行结果
 
