@@ -16,7 +16,7 @@ dlib
 
 ## 3. 运行
 
-`
+```
 
 git clone git@github.com:Roc-J/MerryChristmas.git
 
@@ -24,7 +24,7 @@ cd MerryChristmas
 
 python add_hat.py test.jpg
 
-`
+```
 
 > 参数filename 是自己的正脸照片（格式jpg），建议放在同一目录下。
 
